@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Waiting_For_Elements" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-26T05:46:48" hostname="Rahuls-MacBook-Air.local" time="27.212">
+  <properties/>
+  <testcase name="test" classname="Waiting_For_Elements" time="27.212"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jan 26, 2021 11:17:09 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
